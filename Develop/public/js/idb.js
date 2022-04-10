@@ -1,6 +1,6 @@
 
 let db;
-const request = indexedDb.open('potato_PWA', 1);
+const request = indexedDb.open('budgetapi', 1);
 request.onupgradeneeded = function (event) {
     const db = event.target.results;
     db.createdObjectStore('new_transaction', { autoIncrement: true});
