@@ -14,5 +14,6 @@ AS AN avid traveler
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
 SO THAT my account balance is accurate when I am traveling 
 
-link to deployed application:
+link to deployed application: https://fast-dusk-79699.herokuapp.com/
+github: https://github.com/moon9588/budgetapi.git
 
